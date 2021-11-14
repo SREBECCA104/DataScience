@@ -1,0 +1,2 @@
+# Do in console
+install.packages("GGally", repos = "https://cran.r-project.org", type= "source") 
